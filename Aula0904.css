@@ -1,0 +1,51 @@
+h3.titulo3{
+    color:Tomato;
+    font-size: 8em;
+    initial-letter: 10px;
+    border-top-width: 10px;
+    border-top-color: black;
+    border-top-style: dashed;
+    border-right-width: 10px;
+    border-right-color: orange;
+    border-right-style: solid;
+    border-bottom-width: 10px;
+    border-bottom-color: purple;
+    border-bottom-style: double;
+    border-left-width: 10px;
+    border-left-color: yellow;
+    border-left-style: dotted;
+    letter-spacing: 50px;
+    text-align: center
+}
+h1.titulo4{
+    color: blueviolet;
+    font-size: 6em;
+    text-align: center
+}
+h2{
+    color: #ffffff;
+    background-color: #999;
+}
+h2.underline{
+    text-decoration: underline
+}
+body {
+    background-image:url(https://image.freepik.com/vetores-gratis/casal-havaiano-dos-desenhos-animados-vestindo-trajes-tradicionais_43633-955.jpg);
+    background-image:url(https://thumbs.dreamstime.com/b/ilustra%C3%A7%C3%A3o-do-menino-que-joga-guitarra-e-dan%C3%A7a-havaiana-do-hula-da-menina-72368436.jpg);
+    background-repeat:no-repeat
+}
+p#para1{
+    color: green;
+    font-size: 1em;
+    text-align: left
+}
+p#para2{
+    color: lightcoral;
+}
+h4{
+    font-size: 6em;
+    background: #21429c;
+    padding: 100px;
+    width: 1000px;
+    height: 100px;
+}
